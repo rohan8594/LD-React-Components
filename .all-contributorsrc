@@ -1,6 +1,6 @@
 {
   "projectName": "LD-React-Components",
-  "projectOwner": "intuit",
+  "projectOwner": "rohan8594",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -151,6 +151,15 @@
       "profile": "https://github.com/Kausam",
       "contributions": [
         "code"
+      ]
+    },
+    {
+      "login": "rohan8594",
+      "name": "Rohan Patel",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/23509745?v=4",
+      "profile": "http://rohanpatel.xyz",
+      "contributions": [
+        "doc"
       ]
     }
   ],
